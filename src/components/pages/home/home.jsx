@@ -13,28 +13,28 @@ export default function Home(){
     const[state, setState] = useState(null)
 
     const recommendedImages = [
-        "/src/assets/recommonded/Rectangle 2.svg",
-        "/src/assets/recommonded/Rectangle 4-1.svg",
-        "/src/assets/recommonded/Rectangle 4.svg",
-        "/src/assets/recommonded/Rectangle 5-1.svg",
-        "/src/assets/recommonded/Rectangle 5-2.svg",
-        "/src/assets/recommonded/Rectangle 4.svg",
-        "/src/assets/recommonded/Rectangle 5.svg",
-        "/src/assets/recommonded/Rectangle 34.svg",
+        "/assets/recommonded/Rectangle 2.svg",
+        "/assets/recommonded/Rectangle 4-1.svg",
+        "/assets/recommonded/Rectangle 4.svg",
+        "/assets/recommonded/Rectangle 5-1.svg",
+        "/assets/recommonded/Rectangle 5-2.svg",
+        "/assets/recommonded/Rectangle 4.svg",
+        "/assets/recommonded/Rectangle 5.svg",
+        "/assets/recommonded/Rectangle 34.svg",
       ];
 
     const upCommingEvents=[
 
-            "/src/assets/upcoming/Rectangle 7.svg",
-            "/src/assets/upcoming/Rectangle 9.svg",
-            "/src/assets/upcoming/Rectangle 11.svg",
-            "/src/assets/upcoming/Rectangle 15.svg",
-            "/src/assets/upcoming/Rectangle 16.svg",
-            "/src/assets/upcoming/Rectangle 17.svg",
-            "/src/assets/upcoming/Rectangle 21.svg",
-            "/src/assets/upcoming/Rectangle 22.svg",
-            "/src/assets/upcoming/Rectangle 23.svg",
-            "/src/assets/upcoming/Rectangle 23.svg",
+            "/assets/upcoming/Rectangle 7.svg",
+            "/assets/upcoming/Rectangle 9.svg",
+            "/assets/upcoming/Rectangle 11.svg",
+            "/assets/upcoming/Rectangle 15.svg",
+            "/assets/upcoming/Rectangle 16.svg",
+            "/assets/upcoming/Rectangle 17.svg",
+            "/assets/upcoming/Rectangle 21.svg",
+            "/assets/upcoming/Rectangle 22.svg",
+            "/assets/upcoming/Rectangle 23.svg",
+            "/assets/upcoming/Rectangle 23.svg",
         
     ]
 
